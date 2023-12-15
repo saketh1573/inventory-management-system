@@ -40,27 +40,23 @@ This Java-based Inventory Management System provides a solution for small retail
 ## Screenshots
 
 **1. Adding a New Product:**
-   - ![Add Product](screenshots/add_product.png)
+   - ![Add Product](add_product.png)
 
 **2. Updating Product Information:**
-   - ![Update Product](screenshots/update_product.png)
+   - ![Update Product](update_product.png)
 
 **3. Removing a Product:**
-   - ![Remove Product](screenshots/remove_product.png)
+   - ![Remove Product](remove_product.png)
 
 **4. Checking Stock:**
-   - ![Check Stock](screenshots/check_stock.png)
+   - ![Check Stock](check_stock.png)
 
 **5. Recording a Sale:**
-   - ![Record Sale](screenshots/record_sale.png)
+   - ![Record Sale](record_sale.png)
 
 **6. Generating a Report:**
-   - ![Generate Report](screenshots/generate_report.png)
+   - ![Generate Report](generate_report.png)
 
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or pull requests for any improvements or bug fixes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
