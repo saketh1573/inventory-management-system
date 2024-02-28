@@ -56,7 +56,3 @@ This Java-based Inventory Management System provides a solution for small retail
 
 **6. Generating a Report:**
    - ![Generate Report](generate_report.png)
-
-## Contributing
-
-Contributions are welcome! Feel free to open issues or pull requests for any improvements or bug fixes.
